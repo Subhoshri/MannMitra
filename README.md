@@ -1,13 +1,13 @@
 # MannMitra
 
 ## Overview
-MindMate is a Generative AI-powered mental wellness platform designed for Indian youth. It provides a confidential, empathetic, and interactive environment where students and young adults can engage with AI-driven companions, track their emotions, and receive personalized guidance. Built with Google Cloud’s Gemini API, MindMate addresses the stigma and accessibility barriers that often prevent young people from seeking mental health support.
+MannMitra is a Generative AI-powered mental wellness platform designed for Indian youth. It provides a confidential, empathetic, and interactive environment where students and young adults can engage with AI-driven companions, track their emotions, and receive personalized guidance. Built with Google Cloud’s Gemini API, MannMitra addresses the stigma and accessibility barriers that often prevent young people from seeking mental health support.
 
 ## Problem Statement
 Mental health remains a significant societal taboo in India. Young adults face high academic and social pressures, yet affordable, stigma-free, and accessible resources for mental wellness are limited. This creates a gap where individuals hesitate to seek professional help due to cost, unavailability, or fear of judgment.
 
 ## Solution
-MindMate offers a personalized and interactive mental wellness experience through AI. It adapts to users’ needs by creating relatable AI personas, analyzing daily reflections, and providing actionable tools for stress management and self-care.
+MannMitra offers a personalized and interactive mental wellness experience through AI. It adapts to users’ needs by creating relatable AI personas, analyzing daily reflections, and providing actionable tools for stress management and self-care.
 
 ### Key Features
 
